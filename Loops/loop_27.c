@@ -10,7 +10,7 @@ int main()
     printf("Enter second number: ");
     scanf("%d", &n2);
 
-    // Handle negative numbers
+    
     if (n1 < 0)
         n1 = -n1;
     if (n2 < 0)
